@@ -1,0 +1,5 @@
+Problem summary:  
+- You have a list of projected car prices for consecutive years.  
+- You must buy the car in one year and sell it in a later year at a lower price (to incur a loss).  
+- Your goal is to minimize this loss.  
+- Return the minimum possible loss value.
