@@ -1,0 +1,23 @@
+Complete the 'countIslands' function below.
+
+The function is expected to return an INTEGER.
+The function accepts a 2D list of characters: grid.
+
+Details:
+- 'L' represents land.
+- Any other character represents water.
+- An island is surrounded by water and is formed by connecting adjacent lands horizontally, vertically, or diagonally.
+- You may assume all four edges of the grid are surrounded by water.
+- The task is to count the number of islands in the given grid.
+
+Example:
+Input:
+grid = [
+    ['L', 'W', 'L', 'W'],
+    ['L', 'L', 'W', 'W'],
+    ['W', 'W', 'L', 'L'],
+    ['W', 'W', 'W', 'L']
+]
+
+Output:
+3
